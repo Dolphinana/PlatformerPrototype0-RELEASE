@@ -6,7 +6,10 @@ My platformer for testing and having fun purposes. Anyone using this for educati
 
 COMMANDS:
   Clone the repository:
+  
     git clone --recursive https://github.com/Dolphinana/PlatformerPrototype0-RELEASE.git
     
   Update:
+  
+  
     git
