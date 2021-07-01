@@ -8,7 +8,7 @@ Available for Windows. Linux support coming soon.
 I recommend you use Command line to get this.
 You need git installed.
 
-COMMANDS:
+# COMMANDS:
 
 
 
