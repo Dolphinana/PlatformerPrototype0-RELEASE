@@ -21,5 +21,5 @@ COMMANDS:
 
 
 
-WARNINGS: I'm not responsible for any damage to you computer or your house or your cat. 
+WARNINGS: I'm not responsible for any damage to you computer or your house or your cat or your pillow. 
 
