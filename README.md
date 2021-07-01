@@ -12,4 +12,9 @@ COMMANDS:
   Update:
   
   
-    git
+    git pull
+
+
+
+
+WARNINGS: I'm not responsible for any damage to you computer or your house or your cat. 
