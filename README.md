@@ -26,12 +26,12 @@ Exit game: ESCAPE 2x
 
 
 
-I recommend you use Command line to get this.
-You need git installed.
 
 # GET THE GAME:
 
 
+I recommend you use Command line to get this.
+You need git installed.
 
   Clone the repository:
   
