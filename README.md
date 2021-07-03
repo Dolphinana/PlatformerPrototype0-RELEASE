@@ -5,10 +5,31 @@ My platformer for testing and having fun purposes. Anyone using this for educati
 Available for Windows. Linux support coming soon.
 
 
+
+# CONTROLS:
+
+Move: wasd or arrow keys
+
+Jump: Z, K or SPACE
+
+Shoot: X or J
+
+Reset: R
+  
+Change levels: numbers
+
+Edit levels: Mouse
+
+Exit game: ESCAPE 2x
+
+
+
+
+
 I recommend you use Command line to get this.
 You need git installed.
 
-# COMMANDS:
+# GET THE GAME:
 
 
 
