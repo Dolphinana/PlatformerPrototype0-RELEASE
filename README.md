@@ -15,6 +15,8 @@ Jump: Z, K or SPACE
 Shoot: X or J
 
 Reset: R
+
+Only reset back to spawnpoint: T
   
 Change levels: numbers
 
