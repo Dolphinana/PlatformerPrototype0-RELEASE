@@ -1,6 +1,6 @@
 # PlatformerPrototype0-RELEASE
 
-My platformer for testing and having fun purposes. Anyone using this for educational purposes will go to horny jail for 2 months. :)
+My platformer for testing and having fun purposes. Anyone using this for educational purposes will go to horny jail for few months. :)
 
 Available for Windows. Linux support coming soon.
 
@@ -47,5 +47,5 @@ You need git installed.
 
 
 
-WARNINGS: I'm not responsible for any damage it does to your computer or your house or your cat or your pillow. 
+WARNINGS: I'm not responsible for any damage it does to your computer or your house or your cat or your pillow. Of course it shouldn't do that but still...
 
